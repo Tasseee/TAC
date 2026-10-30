@@ -1,0 +1,8 @@
+{
+ "schemaVersion": 1, "id": "tac", "version": "${version}",
+ "name": "TAC - Tassilo's Anti-Cheat",
+ "description": "Client-only anti-cheat observation prototype",
+ "authors": ["TAC"], "environment": "client",
+ "entrypoints": {"client": ["de.tac.anticheat.TacClient"]},
+ "depends": {"fabricloader": ">=0.18.0", "minecraft": "~1.21.11", "java": ">=21", "fabric-api": "*"}
+}

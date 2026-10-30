@@ -1,0 +1,12 @@
+{
+  "settings.gradle": "95bcd61b3d72e645ee487dbbd0fedfd5182f175c4e33fc8362a9f348b493d9cd",
+  "gradle.properties": "833590343fbee99168a7bbeac3435d783fabd29bdda8de80b8c90b4ab5a61adc",
+  "README.md": "593f4ab780637b06f76482b9f677a9fbb0d88544a84a8d81811cb1a26207179c",
+  ".gitignore": "a89146c8167b2a9dd0c045b2995f500f3aa4b745e9f37b4f0af6a60ced8c7b03",
+  "build.gradle": "711ddfec413911958b1ce6596d641ba3917e39e0d797c611b1f6cc370a2840c6",
+  "src/main/resources/fabric.mod.json": "33221351fbff20bcc9a501cb007fc6c97ab1607213289284fe70645ef48e14c4",
+  "src/main/java/de/tac/anticheat/TacClient.java": "6d5bfcafc42117c39a6f0a8baceed1b3a8896f7a8f2df45614b28eebfbc5a061",
+  "src/main/java/de/tac/anticheat/ui/TacScreen.java": "a704d94901d0c676d84d666267fc432533d4cdaee9d09bcd23f9d2e1dcf105f5",
+  "src/main/java/de/tac/anticheat/chat/ChatAnalyzer.java": "3fe5b127294241a1653e1d6b0947db194721bcc62be1de444090afd314c811af",
+  "src/main/java/de/tac/anticheat/evidence/EvidenceStore.java": "2c2a896b8fafc6a8f40db296d9b478854bd56269737e1dc8ddb8713226a87c5c"
+}
